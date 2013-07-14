@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeQueue</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="go1">Go</string>
+    <string name="about">Project DeQueue \n \t Team members : \n \t \t \t Govind \n \t \t \t Jithin 
+        \n \t \t \t Sooraj \n \t \t \t Sumod</string>
+    <string name="hint">Enter address</string>
+    <string name = "hel">Contact : us \n \n \t \t www.projectdequeue.cz.cc</string>
+    
+    
+    
+
+</resources>
